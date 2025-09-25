@@ -36,7 +36,7 @@ Security engineer and automation architect building scalable solutions that brid
 ## 📫 Connect
 
 💬 **Discord:** brnxmade
-🌐 **Website:** iqsmartmgmt.com *(coming soon)*
+🌐 **Website:** AIQSO.io
 🧠 **Also active on:** GitHub Projects, self-hosted tools, and private lab environments
 
 ---
